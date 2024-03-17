@@ -6,15 +6,8 @@
     <description>Recent content in Storytelling, beyond borders. on Lorris Productions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2024 21:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 14:50:57 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/blog/test/</link>
-      <pubDate>Tue, 12 Mar 2024 21:04:42 +0000</pubDate>
-      <guid>http://localhost:1313/blog/test/</guid>
-      <description> </description>
-    </item>
     <item>
       <title>Introducing Lorris Productions</title>
       <link>http://localhost:1313/blog/introducing-lorris-productions/</link>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/alexanderharris/Documents/Lorris Productions/Websites/lorris-productions",
+	"sourceRoot": "/Users/alexanderharris/sites/lorrisproductions",
 	"sources": [
 		"ananke/css/main.css"
 	],
